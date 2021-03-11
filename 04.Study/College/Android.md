@@ -11,3 +11,5 @@ private View.OnClickListener btnDoOnClick = new View.OnClickListener() {
 	  public void onClick(View v) {
 		…    // 按下按鈕後要執行的程式碼
 ```
+
+期中考考到第五章 Fragment
